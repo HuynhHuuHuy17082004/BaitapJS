@@ -1,0 +1,53 @@
+.card p{
+    margin-top: 10px;
+}
+.tongsochan{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.tongsoduong p{
+    margin-top: 10px;
+}
+.tongsoduong{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sonhonhat p{
+    margin-top: 10px;
+}
+.sonhonhat{
+    width:50% ;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.soduongnhonhat p{
+    margin-top: 10px;
+}
+.soduongnhonhat{
+    width:50% ;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.sochancuoicung p{
+    margin-top: 10px;
+}
+.sochancuoicung{
+    width:50% ;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.sochancuoicung .designbai5{
+    color: red;
+}
